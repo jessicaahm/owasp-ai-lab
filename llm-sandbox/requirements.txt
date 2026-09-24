@@ -1,0 +1,1 @@
+# Standard library only. Requires a local Ollama server: https://ollama.com
